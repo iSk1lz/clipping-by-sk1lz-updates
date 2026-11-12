@@ -19,6 +19,8 @@
 
 <sub>Abre la última versión y descarga el archivo <code>CLIPPING-BY-SK1LZ-Setup-x.x.x.exe</code></sub>
 
+[Manual de uso (PDF, ES/EN) &nbsp;→](https://github.com/iSk1lz/clipping-by-sk1lz-updates/blob/main/docs/Guia-de-uso-CLIPPING-BY-SK1LZ.pdf)
+
 <br>
 
 [Español](#español) &nbsp;·&nbsp; [English](#english)
@@ -52,6 +54,17 @@ sigue a la persona que habla y les pone subtítulos y un hook listo para TikTok,
 - Una suscripción de **Claude** (Pro o Max). La app usa tu propia cuenta, no hace falta ninguna API.
 - Conexión a internet durante la instalación.
 
+### ¿Qué PC necesito? ¿Hace falta tarjeta gráfica?
+
+**No es obligatoria**: la app funciona en cualquier PC con Windows, solo cambia la velocidad. Detecta tu equipo sola y elige lo mejor.
+
+| Tu PC | Qué esperar |
+|---|---|
+| **Tarjeta NVIDIA** (lo mejor) | La más rápida: transcribe con la gráfica y hace los videos con NVENC. Un clip de 1 minuto se hace en menos de 30 segundos. |
+| **Gráfica Intel o AMD** | Funciona bien. Los videos se hacen rápido; transcribir un video muy largo tarda más porque lo hace el procesador. |
+| **Sin gráfica especial** | También funciona, pero más lento (todo lo hace el procesador). Mejor con videos cortos. |
+
+Mínimo: **8 GB de RAM** (16 GB mejor), **6 GB libres** en disco más espacio para tus videos, y un procesador de los últimos años. Cuanto **más potente** sea tu PC, más rápido hace los clips. Los subtítulos tipo *cristal* tardan más en cualquier PC.
 ### Instalar
 
 1. **Descarga** el instalador desde [la última versión](https://github.com/iSk1lz/clipping-by-sk1lz-updates/releases/latest) y ábrelo.
@@ -92,6 +105,17 @@ speaking and adds captions plus a hook ready for TikTok, Reels and Shorts.
 - A **Claude** subscription (Pro or Max). The app uses your own account — no API key needed.
 - An internet connection during setup.
 
+### What PC do I need? Is a graphics card required?
+
+**It's not required**: the app runs on any Windows PC, only the speed changes. It detects your PC by itself and picks the best option.
+
+| Your PC | What to expect |
+|---|---|
+| **NVIDIA card** (best) | Fastest: it transcribes on the graphics card and renders with NVENC. A 1-minute clip takes under 30 seconds. |
+| **Intel or AMD graphics** | Works well. Videos render fast; transcribing a very long video takes longer because the processor does it. |
+| **No special graphics card** | Also works, but slower (the processor does everything). Better with short videos. |
+
+Minimum: **8 GB RAM** (16 GB is better), **6 GB free** on disk plus space for your videos, and a CPU from the last few years. The **more powerful** your PC, the faster your clips are made. *Glass* captions take longer on any PC.
 ### Install
 
 1. **Download** the installer from [the latest release](https://github.com/iSk1lz/clipping-by-sk1lz-updates/releases/latest) and run it.
@@ -108,5 +132,6 @@ itself and reopens. Your projects and key are kept.
 <br>
 
 <div align="center">
+<sub>[Manual de uso / User guide (PDF)](https://github.com/iSk1lz/clipping-by-sk1lz-updates/blob/main/docs/Guia-de-uso-CLIPPING-BY-SK1LZ.pdf)</sub><br>
 <sub>© SK1LZ — CLIPPING BY SK1LZ</sub>
 </div>
