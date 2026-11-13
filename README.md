@@ -46,6 +46,9 @@ sigue a la persona que habla y les pone subtítulos y un hook listo para TikTok,
 | **Links y directos** | YouTube, Twitch, Kick y más. En directos puedes retroceder y marcar de dónde a dónde. |
 | **Editor** | Recorta, cambia el encuadre, los textos y los estilos, y vuelve a renderizar el clip. |
 | **Portadas** | Cada clip sale con su miniatura lista para subir. |
+| **Todos los formatos** | El mismo clip en 9:16, 1:1 y 16:9 con un clic. |
+| **Canales vigilados** | Vigila tus canales de YouTube, Twitch o Kick y hace clips de sus directos solo, cada hora y al terminar. |
+| **Hasta 4 voces** | Distingue hasta 4 personas por su voz para que la cámara siga a quien habla. |
 | **Todo en local** | Tus videos se quedan en tu PC. Funciona con tarjetas NVIDIA, Intel, AMD o solo con el procesador. |
 
 ### Qué necesitas
@@ -97,6 +100,9 @@ speaking and adds captions plus a hook ready for TikTok, Reels and Shorts.
 | **Links & live streams** | YouTube, Twitch, Kick and more. On live streams, rewind and mark in / out. |
 | **Editor** | Trim, reframe, edit text and styles, then re-render the clip. |
 | **Covers** | Every clip comes with a thumbnail ready to post. |
+| **All formats** | The same clip as 9:16, 1:1 and 16:9 in one click. |
+| **Watched channels** | Watches your YouTube, Twitch or Kick channels and clips their lives by itself, every hour and when they end. |
+| **Up to 4 voices** | Tells up to 4 people apart by their voice so the camera follows whoever is talking. |
 | **Fully local** | Your videos stay on your PC. Works with NVIDIA, Intel, AMD graphics or CPU only. |
 
 ### Requirements
@@ -135,3 +141,7 @@ itself and reopens. Your projects and key are kept.
 <sub>[Manual de uso / User guide (PDF)](https://github.com/iSk1lz/clipping-by-sk1lz-updates/blob/main/docs/Guia-de-uso-CLIPPING-BY-SK1LZ.pdf)</sub><br>
 <sub>© SK1LZ — CLIPPING BY SK1LZ</sub>
 </div>
+
+---
+
+<sub>Reconocimiento de voces / speaker recognition: modelo WeSpeaker ResNet34 (VoxCeleb), © WeNet community, licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — https://github.com/wenet-e2e/wespeaker</sub>
