@@ -47,7 +47,7 @@ sigue a la persona que habla y les pone subtítulos y un hook listo para TikTok,
 | **Editor** | Recorta, cambia el encuadre, los textos y los estilos, y vuelve a renderizar el clip. |
 | **Portadas** | Cada clip sale con su miniatura lista para subir. |
 | **Todos los formatos** | El mismo clip en 9:16, 1:1 y 16:9 con un clic. |
-| **Canales vigilados** | Vigila tus canales de YouTube, Twitch o Kick y hace clips de sus directos solo, cada hora y al terminar. |
+| **Canales vigilados** | Vigila tus canales de YouTube, Twitch o Kick y hace clips de sus directos solo, cada hora y al terminar — con la duración, los subtítulos y la cantidad que elijas. |
 | **Hasta 4 voces** | Distingue hasta 4 personas por su voz para que la cámara siga a quien habla. |
 | **Todo en local** | Tus videos se quedan en tu PC. Funciona con tarjetas NVIDIA, Intel, AMD o solo con el procesador. |
 
@@ -101,7 +101,7 @@ speaking and adds captions plus a hook ready for TikTok, Reels and Shorts.
 | **Editor** | Trim, reframe, edit text and styles, then re-render the clip. |
 | **Covers** | Every clip comes with a thumbnail ready to post. |
 | **All formats** | The same clip as 9:16, 1:1 and 16:9 in one click. |
-| **Watched channels** | Watches your YouTube, Twitch or Kick channels and clips their lives by itself, every hour and when they end. |
+| **Watched channels** | Watches your YouTube, Twitch or Kick channels and clips their lives by itself, every hour and when they end — with the length, captions and number of clips you pick. |
 | **Up to 4 voices** | Tells up to 4 people apart by their voice so the camera follows whoever is talking. |
 | **Fully local** | Your videos stay on your PC. Works with NVIDIA, Intel, AMD graphics or CPU only. |
 
