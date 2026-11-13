@@ -40,7 +40,7 @@ sigue a la persona que habla y les pone subtítulos y un hook listo para TikTok,
 
 | | |
 |---|---|
-| **Momentos con IA** | Claude lee la transcripción y elige los fragmentos con más gancho. |
+| **Momentos con IA** | Claude o ChatGPT leen la transcripción y eligen los fragmentos con más gancho. |
 | **Encuadre inteligente** | Sigue a quien está hablando, también en entrevistas, podcasts y gaming con webcam. |
 | **Subtítulos y hooks** | Estilos elegantes para charlas y estilos fuertes para gaming, con hooks pensados para cada red. |
 | **Links y directos** | YouTube, Twitch, Kick y más. En directos puedes retroceder y marcar de dónde a dónde. |
@@ -51,7 +51,7 @@ sigue a la persona que habla y les pone subtítulos y un hook listo para TikTok,
 ### Qué necesitas
 
 - Windows 10 u 11 (64 bits).
-- Una suscripción de **Claude** (Pro o Max). La app usa tu propia cuenta, no hace falta ninguna API.
+- Una suscripción de **Claude** (Pro o Max) **o de ChatGPT** (por ejemplo Plus). La app usa tu propia cuenta, no hace falta ninguna API.
 - Conexión a internet durante la instalación.
 
 ### ¿Qué PC necesito? ¿Hace falta tarjeta gráfica?
@@ -69,7 +69,7 @@ Mínimo: **8 GB de RAM** (16 GB mejor), **6 GB libres** en disco más espacio pa
 
 1. **Descarga** el instalador desde [la última versión](https://github.com/iSk1lz/clipping-by-sk1lz-updates/releases/latest) y ábrelo.
 2. **Espera** a que termine. La primera vez tarda entre 5 y 15 minutos porque prepara el motor de video y el modelo de voz.
-3. **Conecta Claude**: pulsa *Conectar Claude*, entra con tu cuenta y pulsa *Autorizar*.
+3. **Conecta tu IA**: pulsa *Conectar* y elige *Continuar con Claude* o *Continuar con ChatGPT*; entra con tu cuenta y pulsa *Autorizar*.
 4. **Activa tu copia**: copia el **código de tu PC** que te muestra la app y envíaselo a quien te pasó la app.
    Te devolverá una clave; pégala y listo.
 
@@ -91,7 +91,7 @@ speaking and adds captions plus a hook ready for TikTok, Reels and Shorts.
 
 | | |
 |---|---|
-| **AI moments** | Claude reads the transcript and picks the strongest moments. |
+| **AI moments** | Claude or ChatGPT read the transcript and pick the strongest moments. |
 | **Smart framing** | Follows the active speaker — interviews, podcasts, and gaming with a webcam. |
 | **Captions & hooks** | Elegant styles for talk content, bold ones for gaming, hooks written for each platform. |
 | **Links & live streams** | YouTube, Twitch, Kick and more. On live streams, rewind and mark in / out. |
@@ -102,7 +102,7 @@ speaking and adds captions plus a hook ready for TikTok, Reels and Shorts.
 ### Requirements
 
 - Windows 10 or 11 (64-bit).
-- A **Claude** subscription (Pro or Max). The app uses your own account — no API key needed.
+- A **Claude** subscription (Pro or Max) **or a ChatGPT** plan (e.g. Plus). The app uses your own account — no API key needed.
 - An internet connection during setup.
 
 ### What PC do I need? Is a graphics card required?
@@ -120,7 +120,7 @@ Minimum: **8 GB RAM** (16 GB is better), **6 GB free** on disk plus space for yo
 
 1. **Download** the installer from [the latest release](https://github.com/iSk1lz/clipping-by-sk1lz-updates/releases/latest) and run it.
 2. **Wait** for it to finish. The first time takes 5–15 minutes (video engine + speech model).
-3. **Connect Claude**: click *Connect Claude*, sign in and click *Authorize*.
+3. **Connect your AI**: click *Connect* and pick *Continue with Claude* or *Continue with ChatGPT*; sign in and click *Authorize*.
 4. **Activate your copy**: copy the **PC code** the app shows you and send it to whoever gave you the app.
    You'll get a key back — paste it and you're done.
 
