@@ -71,7 +71,7 @@ Mínimo: **8 GB de RAM** (16 GB mejor), **6 GB libres** en disco más espacio pa
 ### Instalar
 
 1. **Descarga** el instalador desde [la última versión](https://github.com/iSk1lz/clipping-by-sk1lz-updates/releases/latest) y ábrelo.
-2. **Espera** a que termine. La primera vez tarda entre 5 y 15 minutos porque prepara el motor de video y el modelo de voz.
+2. **Elige tu idioma y espera** a que termine: el instalador te muestra cada paso y cómo va. La primera vez tarda entre 5 y 15 minutos porque prepara el motor de video y el modelo de voz.
 3. **Conecta tu IA**: pulsa *Conectar* y elige *Continuar con Claude* o *Continuar con ChatGPT*; entra con tu cuenta y pulsa *Autorizar*.
 4. **Activa tu copia**: copia el **código de tu PC** que te muestra la app y envíaselo a quien te pasó la app.
    Te devolverá una clave; pégala y listo.
@@ -125,7 +125,7 @@ Minimum: **8 GB RAM** (16 GB is better), **6 GB free** on disk plus space for yo
 ### Install
 
 1. **Download** the installer from [the latest release](https://github.com/iSk1lz/clipping-by-sk1lz-updates/releases/latest) and run it.
-2. **Wait** for it to finish. The first time takes 5–15 minutes (video engine + speech model).
+2. **Pick your language and wait** for it to finish — the installer shows each step and how it's going. The first time takes 5–15 minutes (video engine + speech model).
 3. **Connect your AI**: click *Connect* and pick *Continue with Claude* or *Continue with ChatGPT*; sign in and click *Authorize*.
 4. **Activate your copy**: copy the **PC code** the app shows you and send it to whoever gave you the app.
    You'll get a key back — paste it and you're done.
