@@ -145,3 +145,5 @@ itself and reopens. Your projects and key are kept.
 ---
 
 <sub>Reconocimiento de voces / speaker recognition: modelo WeSpeaker ResNet34 (VoxCeleb), © WeNet community, licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — https://github.com/wenet-e2e/wespeaker</sub>
+
+<sub>Quién habla en pantalla / active speaker detection: modelo Light-ASD (Liao Junhua et al., CVPR 2023), licencia [MIT](https://github.com/Junhua-Liao/Light-ASD/blob/main/LICENSE) — https://github.com/Junhua-Liao/Light-ASD</sub>
